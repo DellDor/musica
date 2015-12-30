@@ -12,7 +12,7 @@ a[D]sí en la [E7]tierra[D] como en el [E]cielo.
 El[A] pan danos[F#m] hoy,
 nuestro [D]pan de cada [E7]día.
 
-Per[A]dona nuestras o[F#m]fenzas
+Per[A]dona nuestras o[F#m]fensas
 a[D]sí como no[E7]sotros 
 perdo[D]namos a quién nos o[E7]fende.
 
