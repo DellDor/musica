@@ -11,7 +11,7 @@ Que nos des de tu pan[Em]
 de ese vino que es la [F]Sangre[G7]
 que en la cruz Tu derramaste.[C]
 
-Chorus:
+{soc}
 [C7]CON EL VINO Y [F]CON EL PAN
 [G7]NUESTRAS VIDAS [C]TE OFRECEMOS
 [Am]Y EN TI CRE[Dm]EMOS
