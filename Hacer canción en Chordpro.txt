@@ -1,14 +1,15 @@
-A pesar que se supone Chorpro es un estándar, cada programa implementa sus peculiaridades.
-Se basa en http://www.skeed.it/chordpro y http://www.oddbase.com/what-is-chordpro/
-Lo siguiente asegura compatibilidad con Songpress.
+A pesar que se supone Chorpro es un estándar, cada programa implementa sus peculiaridades. Se basa en http://www.skeed.it/chordpro y http://www.oddbase.com/what-is-chordpro/. Lo siguiente asegura compatibilidad con Songpress y utilidad en Chordbase.
+
+El nombre será con puntos en lugar de espacios para evitar problemas en la terminal de GNU. La extensión será .crd.
 
 Se comienza con el título de la canción, seguido de un espacio en blanco y un comentario con información adicional.
-Allí irá el tono habitual, el tono para voces femeninas (f) o masculinas(m) y el tiempo -para autoscroll en Chordbase-. Esto no se verá en chordbase, sino que habrá que editar para ver los parámetros.
-{title:Aquí estamos, Señor} {c:C,tiempo:1:50}
+Allí irá el tono habitual, el tono para voces femeninas (f) o masculinas(m) y el tiempo -para autoscroll en Chordbase e canciones largas-. Esto no se verá en chordbase, sino que habrá que editar para ver los parámetros. Ej:
+`{title:Aquí estamos, Señor} {c:C,tiempo:1:50}`
 
 A continuación la canción en sí, separando cada estrofa o verso con una línea blanca entre ellas.
 
 El coro, además de marcado con inicio y fin de coro, se colocará en mayúsculas para rápida ubicación. Se puede transformar en Libreoffice Writer/Formato/Texto/Cambiar uso de mayúsculas.
+```
 {soc}
 [C7]CON EL VINO Y [F]CON EL PAN,[G7]
 NUESTRAS VIDAS [C]TE OFRECEMOS.[A7]
@@ -19,3 +20,4 @@ SIN TENER RE[C]SERVAS[A7]
 PUES CON ESTA O[Dm]FRENDA,[G7]
 QUEREMOS CAM[Fm]BIAR.[C]
 {eoc}
+```
